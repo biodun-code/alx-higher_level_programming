@@ -1,2 +1,2 @@
-!/usr/bin/p#ython3
-print("{:d} Battery street".format(number)\n)
+#!/usr/bin/python3
+print("Best School")
