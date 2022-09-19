@@ -1,2 +1,2 @@
 number = 98
-print(f"{number}" f" betty\n")
+print("\n{:d} Battery street".format(number))
